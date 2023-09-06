@@ -4,7 +4,7 @@
 <ul style="list-style: none;">
 <li>:seedling: I'm in constant learning (currently Inertia.js with Laravel / Nuxt / Tailwind CSS)</li>
 <li>:octocat: I’m looking to collaborate projects that make use of <strong>PHP, JavaScript, HTML, CSS, Translations</strong></li>
-<li>:brazil: From Rio Grande do Sul, Rodeio Bonito, Brazil</li>
+<li>:vietnam: From Rio Grande do Sul, Rodeio Bonito, Brazil</li>
 <li>:rocket: I'm looking for new projects and work opportunities</li>
 <li>:metal: Let's Rock n' Roll and Code, baby.</li>
 </ul>
